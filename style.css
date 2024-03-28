@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #778899
+    ;
+}
+.main{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 50px;
+}
+.box{
+    margin-top: 5%;
+    width: 230px;
+    height: 200px;
+    border: 1px solid cyan;
+    border-radius: 12px;
+    background-color: #6495ED;
+    padding: 50px;
+    font-size: 22px;
+}
+#answer{
+    margin: auto;
+    color: red;
+    font-size: 35px;
+    padding-left: 40px;
+}
+.b{
+    width: 90px;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 7px;
+}
+.c{
+    width: 200px;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.title{
+    color: white;
+    font-weight: bolder;
+    font-size: 26px;
+}
